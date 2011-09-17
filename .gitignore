@@ -1,0 +1,6 @@
+gitweb.conf.in
+git-gui.desktop
+git.conf.httpd
+git.xinetd.in
+git-init.el
+git-1.7.1.tar.bz2
